@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_208568_slack_poi.slack_event_user" name="x_208568_slack_poi.slack_event_user">dfe9dced4f5113005ee03b718110c736</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-05 19:27:39</sys_created_on>
+        <sys_id>53e9dced4f5113005ee03b718110c739</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dfe9dced4f5113005ee03b718110c736</sys_name>
+        <sys_package display_value="Slack Points Thing" source="x_208568_slack_poi">067b6b114f1113005ee03b718110c77f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Slack Points Thing">067b6b114f1113005ee03b718110c77f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_53e9dced4f5113005ee03b718110c739</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-05 19:27:39</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

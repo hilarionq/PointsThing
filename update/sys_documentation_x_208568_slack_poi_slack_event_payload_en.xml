@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="payload" label="Payload" language="en" table="x_208568_slack_poi_slack_event">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>payload</element>
+            <help/>
+            <hint/>
+            <label>Payload</label>
+            <language>en</language>
+            <name>x_208568_slack_poi_slack_event</name>
+            <plural>Payloads</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-05 19:27:40</sys_created_on>
+            <sys_id>a7e91ce14f9113005ee03b718110c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Payload</sys_name>
+            <sys_package display_value="Slack Points Thing" source="x_208568_slack_poi">067b6b114f1113005ee03b718110c77f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Slack Points Thing">067b6b114f1113005ee03b718110c77f</sys_scope>
+            <sys_update_name>sys_documentation_x_208568_slack_poi_slack_event_payload_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-05 19:27:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
